@@ -1,0 +1,12 @@
+C:\Users\0702\source\repos\jsoner\obj\Debug\net8.0\jsoner.csproj.AssemblyReference.cache
+C:\Users\0702\source\repos\jsoner\obj\Debug\net8.0\jsoner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0702\source\repos\jsoner\obj\Debug\net8.0\jsoner.AssemblyInfoInputs.cache
+C:\Users\0702\source\repos\jsoner\obj\Debug\net8.0\jsoner.AssemblyInfo.cs
+C:\Users\0702\source\repos\jsoner\obj\Debug\net8.0\jsoner.csproj.CoreCompileInputs.cache
+C:\Users\0702\source\repos\jsoner\bin\Debug\net8.0\jsoner.deps.json
+C:\Users\0702\source\repos\jsoner\bin\Debug\net8.0\jsoner.dll
+C:\Users\0702\source\repos\jsoner\bin\Debug\net8.0\jsoner.pdb
+C:\Users\0702\source\repos\jsoner\obj\Debug\net8.0\jsoner.dll
+C:\Users\0702\source\repos\jsoner\obj\Debug\net8.0\refint\jsoner.dll
+C:\Users\0702\source\repos\jsoner\obj\Debug\net8.0\jsoner.pdb
+C:\Users\0702\source\repos\jsoner\obj\Debug\net8.0\ref\jsoner.dll

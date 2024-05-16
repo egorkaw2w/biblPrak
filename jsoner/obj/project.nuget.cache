@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DTucLHbIwM5VNsFFS1P27tX46AaeYGpydeGY9bJkmJ0GdYFMDP1l/qfRg2JW0QPA9eNDwCis2WDhxT2Ex6WMVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\0702\\source\\repos\\jsoner\\jsoner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\0702\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
